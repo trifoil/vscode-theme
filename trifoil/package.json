@@ -1,0 +1,21 @@
+{
+  "name": "trifoil",
+  "displayName": "trifoil",
+  "description": "trifoil theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "trifoil-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trifoil-dark-color-theme.json"
+      }
+    ]
+  }
+}
